@@ -1,0 +1,20 @@
+2019-10-27 07:28:54
+Error: Redis connection to paolo463.ddns.net:6379 failed - connect ECONNREFUSED 93.41.136.195:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+
+2019-10-27 07:28:54
+Error: Redis connection to paolo463.ddns.net:6379 failed - connect ECONNREFUSED 93.41.136.195:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+
+2019-10-27 07:28:54
+Error: Redis connection to paolo463.ddns.net:6379 failed - connect ECONNREFUSED 93.41.136.195:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+
+2019-10-27 07:28:55
+Error: Redis connection to paolo463.ddns.net:6379 failed - connect ECONNREFUSED 93.41.136.195:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+
+2019-10-27 07:28:56
+Error: Redis connection to paolo463.ddns.net:6379 failed - connect ECONNREFUSED 93.41.136.195:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1191:14)
+

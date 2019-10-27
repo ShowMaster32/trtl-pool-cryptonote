@@ -1,0 +1,29 @@
+2019-10-27 07:18:32
+Error: The module '/home/alby/pool/node_modules/turtlecoin-cryptonote-util/build/Release/cryptonote.node'
+was compiled against a different Node.js version using
+NODE_MODULE_VERSION 57. This version of Node.js requires
+NODE_MODULE_VERSION 79. Please try re-compiling or re-installing
+the module (for instance, using `npm rebuild` or `npm install`).
+    at Object.Module._extensions..node (internal/modules/cjs/loader.js:1041:18)
+    at Module.load (internal/modules/cjs/loader.js:822:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:730:14)
+    at Module.require (internal/modules/cjs/loader.js:864:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at bindings (/home/alby/pool/node_modules/bindings/bindings.js:84:48)
+    at Object.<anonymous> (/home/alby/pool/node_modules/turtlecoin-cryptonote-util/index.js:1:37)
+    at Module._compile (internal/modules/cjs/loader.js:971:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10)
+    at Module.load (internal/modules/cjs/loader.js:822:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:730:14)
+    at Module.require (internal/modules/cjs/loader.js:864:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alby/pool/lib/utils.js:14:14)
+    at Module._compile (internal/modules/cjs/loader.js:971:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1011:10)
+    at Module.load (internal/modules/cjs/loader.js:822:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:730:14)
+    at Module.require (internal/modules/cjs/loader.js:864:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alby/pool/lib/notifications.js:16:13)
+    at Module._compile (internal/modules/cjs/loader.js:971:30)
+
