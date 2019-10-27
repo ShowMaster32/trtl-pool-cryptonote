@@ -5628,3 +5628,75 @@
 2019-10-27 09:18:49 (Thread 3) New turtlecoin block to mine at height 1966809 w/ difficulty of 11150172250
 2019-10-27 09:18:49 (Thread 5) New turtlecoin block to mine at height 1966809 w/ difficulty of 11150172250
 2019-10-27 09:18:50 (Thread 1) Retargetting difficulty 34091 to 17046 for TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-10-27 09:49:34 (Thread 1) Clear values for connected workers in redis database.
+2019-10-27 09:49:34 (Thread 1) Clear values for port 5555 in redis database.
+2019-10-27 09:49:34 (Thread 1) Started server listening on port 5555
+2019-10-27 09:49:34 (Thread 1) Clear values for port 7777 in redis database.
+2019-10-27 09:49:34 (Thread 1) Started server listening on port 7777
+2019-10-27 09:49:35 (Thread 1) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:49:34 (Thread 2) Clear values for connected workers in redis database.
+2019-10-27 09:49:34 (Thread 2) Clear values for port 5555 in redis database.
+2019-10-27 09:49:34 (Thread 2) Started server listening on port 5555
+2019-10-27 09:49:34 (Thread 2) Clear values for port 7777 in redis database.
+2019-10-27 09:49:34 (Thread 2) Started server listening on port 7777
+2019-10-27 09:49:35 (Thread 2) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:49:34 (Thread 3) Clear values for connected workers in redis database.
+2019-10-27 09:49:34 (Thread 3) Clear values for port 5555 in redis database.
+2019-10-27 09:49:34 (Thread 3) Started server listening on port 5555
+2019-10-27 09:49:34 (Thread 3) Clear values for port 7777 in redis database.
+2019-10-27 09:49:34 (Thread 3) Started server listening on port 7777
+2019-10-27 09:49:35 (Thread 3) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:49:34 (Thread 4) Clear values for connected workers in redis database.
+2019-10-27 09:49:35 (Thread 4) Clear values for port 5555 in redis database.
+2019-10-27 09:49:35 (Thread 4) Started server listening on port 5555
+2019-10-27 09:49:35 (Thread 4) Clear values for port 7777 in redis database.
+2019-10-27 09:49:35 (Thread 4) Started server listening on port 7777
+2019-10-27 09:49:36 (Thread 4) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:49:35 (Thread 6) Clear values for connected workers in redis database.
+2019-10-27 09:49:35 (Thread 6) Clear values for port 5555 in redis database.
+2019-10-27 09:49:35 (Thread 6) Started server listening on port 5555
+2019-10-27 09:49:35 (Thread 6) Clear values for port 7777 in redis database.
+2019-10-27 09:49:35 (Thread 6) Started server listening on port 7777
+2019-10-27 09:49:36 (Thread 6) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:49:34 (Thread 5) Clear values for connected workers in redis database.
+2019-10-27 09:49:34 (Thread 5) Clear values for port 5555 in redis database.
+2019-10-27 09:49:34 (Thread 5) Started server listening on port 5555
+2019-10-27 09:49:34 (Thread 5) Clear values for port 7777 in redis database.
+2019-10-27 09:49:34 (Thread 5) Started server listening on port 7777
+2019-10-27 09:49:35 (Thread 5) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:50:13 (Thread 1) Clear values for connected workers in redis database.
+2019-10-27 09:50:13 (Thread 1) Clear values for port 5555 in redis database.
+2019-10-27 09:50:13 (Thread 1) Started server listening on port 5555
+2019-10-27 09:50:13 (Thread 1) Clear values for port 7777 in redis database.
+2019-10-27 09:50:13 (Thread 1) Started server listening on port 7777
+2019-10-27 09:50:14 (Thread 1) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:50:13 (Thread 2) Clear values for connected workers in redis database.
+2019-10-27 09:50:13 (Thread 2) Clear values for port 5555 in redis database.
+2019-10-27 09:50:13 (Thread 2) Started server listening on port 5555
+2019-10-27 09:50:13 (Thread 2) Clear values for port 7777 in redis database.
+2019-10-27 09:50:13 (Thread 2) Started server listening on port 7777
+2019-10-27 09:50:14 (Thread 2) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:50:13 (Thread 3) Clear values for connected workers in redis database.
+2019-10-27 09:50:13 (Thread 3) Clear values for port 5555 in redis database.
+2019-10-27 09:50:13 (Thread 3) Started server listening on port 5555
+2019-10-27 09:50:13 (Thread 3) Clear values for port 7777 in redis database.
+2019-10-27 09:50:13 (Thread 3) Started server listening on port 7777
+2019-10-27 09:50:14 (Thread 3) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:50:13 (Thread 4) Clear values for connected workers in redis database.
+2019-10-27 09:50:13 (Thread 4) Clear values for port 5555 in redis database.
+2019-10-27 09:50:13 (Thread 4) Started server listening on port 5555
+2019-10-27 09:50:13 (Thread 4) Clear values for port 7777 in redis database.
+2019-10-27 09:50:13 (Thread 4) Started server listening on port 7777
+2019-10-27 09:50:14 (Thread 4) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:50:13 (Thread 6) Clear values for connected workers in redis database.
+2019-10-27 09:50:13 (Thread 6) Clear values for port 5555 in redis database.
+2019-10-27 09:50:13 (Thread 6) Started server listening on port 5555
+2019-10-27 09:50:13 (Thread 6) Clear values for port 7777 in redis database.
+2019-10-27 09:50:13 (Thread 6) Started server listening on port 7777
+2019-10-27 09:50:14 (Thread 6) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
+2019-10-27 09:50:13 (Thread 5) Clear values for connected workers in redis database.
+2019-10-27 09:50:13 (Thread 5) Clear values for port 5555 in redis database.
+2019-10-27 09:50:13 (Thread 5) Started server listening on port 5555
+2019-10-27 09:50:13 (Thread 5) Clear values for port 7777 in redis database.
+2019-10-27 09:50:13 (Thread 5) Started server listening on port 7777
+2019-10-27 09:50:14 (Thread 5) New turtlecoin block to mine at height 1966878 w/ difficulty of 14351927184
