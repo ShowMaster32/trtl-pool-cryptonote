@@ -175,7 +175,7 @@
 
     "email": {
         "enabled": false,
-        "fromAddress": "your@email.com",
+        "fromAddress": "support@moriapool.eu",
         "transport": "sendmail",
         "sendmail": {
             "path": "/usr/sbin/sendmail"
