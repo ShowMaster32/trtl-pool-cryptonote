@@ -5669,3 +5669,637 @@
 2019-10-27 04:21:00 (Thread 5) Bad hash from miner TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.172
 2019-10-27 04:21:00 (Thread 5) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.172
 2019-10-27 08:00:00 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.172
+2019-10-28 05:39:22 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.172
+2019-10-28 05:40:52 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.172
+2019-10-29 09:41:23 (Thread 4) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.172
+2019-10-29 09:59:58 (Thread 3) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-10-29 10:06:23 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-29 10:11:20 (Thread 6) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-10-29 10:11:36 (Thread 2) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-10-29 10:52:31 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 10:53:33 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 11:53:38 (Thread 6) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-29 13:32:35 (Thread 1) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-29 13:58:14 (Thread 4) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-29 14:06:11 (Thread 2) Malformed message from ::ffff:185.216.140.17: CNXN         M
+2019-10-29 15:18:46 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:19:05 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:31:09 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.40.39
+2019-10-29 15:32:09 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.40.39
+2019-10-29 15:33:27 (Thread 5) Socket error from ::ffff:91.252.40.39 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-29 15:33:52 (Thread 4) Socket error from ::ffff:91.252.40.39 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-29 15:56:25 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:56:25 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:56:43 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:56:43 (Thread 3) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:57:36 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:57:36 (Thread 3) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:58:02 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 15:58:02 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 16:06:17 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 16:06:35 (Thread 6) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 16:13:45 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-29 16:20:15 (Thread 3) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.19.228
+2019-10-29 16:20:45 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.19.228
+2019-10-29 16:25:25 (Thread 2) Socket error from ::ffff:91.253.19.228 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-29 16:25:52 (Thread 3) Socket error from ::ffff:91.253.19.228 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-29 17:51:19 (Thread 2) Malformed message from ::ffff:213.207.217.149: POST /UD/?5 HTTP/1.1
+2019-10-29 17:54:31 (Thread 3) Malformed message from ::ffff:37.27.151.149: POST /UD/?5 HTTP/1.1
+2019-10-29 21:17:30 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 21:18:46 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-29 21:32:16 (Thread 6) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.19.228
+2019-10-29 21:32:16 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.19.228
+2019-10-29 21:34:44 (Thread 6) Socket error from ::ffff:91.253.19.228 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-29 21:34:54 (Thread 4) Socket error from ::ffff:91.253.19.228 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-30 03:17:35 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 03:18:53 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 03:31:18 (Thread 6) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.18.140
+2019-10-30 03:32:18 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.18.140
+2019-10-30 03:33:37 (Thread 5) Socket error from ::ffff:91.252.18.140 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-30 03:33:51 (Thread 6) Socket error from ::ffff:91.252.18.140 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-30 03:37:09 (Thread 3) Rejected low difficulty share of 7397690 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 03:37:09 (Thread 3) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 04:14:11 (Thread 3) Malformed message from ::ffff:85.93.20.170:   /*�     Cookie: mstshash=Administr
+2019-10-30 04:14:31 (Thread 5) Malformed message from ::ffff:85.93.20.170:   /*�     Cookie: mstshash=Administr
+2019-10-30 05:25:26 (Thread 1) Malformed message from ::ffff:89.44.183.183: POST /UD/?5 HTTP/1.1
+2019-10-30 05:57:49 (Thread 3) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 08:37:18 (Thread 3) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:37:18 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:37:42 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:37:42 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:42:17 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:42:17 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:43:45 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:43:45 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:51:21 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:51:21 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:52:23 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:52:23 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:53:15 (Thread 3) Malformed message from ::ffff:192.168.1.254 generated an exception. Message: {"id":1,"jsonrpc":"2.0","method":"login","params":{"agent":"CryptoDredge/0.22.0","login":"TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4","pass":"rtx-2080ti"}}
+2019-10-30 08:53:15 (Thread 3) Exception: Cannot read property 'height' of undefined
+2019-10-30 08:53:25 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:53:25 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:56:25 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 08:56:26 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:02:34 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:02:34 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:08:02 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:08:02 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:09:33 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:09:33 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:10:08 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:10:08 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:13:08 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:13:08 (Thread 3) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:17:32 (Thread 6) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:17:56 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:30:33 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:30:33 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:30:35 (Thread 2) Bad hash from miner TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 09:30:35 (Thread 2) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 09:30:36 (Thread 2) Bad hash from miner TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 09:30:36 (Thread 2) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 09:30:36 (Thread 2) Bad hash from miner TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 09:30:36 (Thread 2) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 09:30:34 (Thread 5) Bad hash from miner TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.177.236
+2019-10-30 09:30:34 (Thread 5) Share trust broken by TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.177.236
+2019-10-30 09:30:34 (Thread 5) Duplicate share: {"id":"361253933021387","job_id":"184463216602330","nonce":"a3450000","result":"709bfd0fa5a88d75953637ef7804ddd7abf33b6673988addc892165809340000"} from  TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.177.236
+2019-10-30 09:30:34 (Thread 5) Banned TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.177.236
+2019-10-30 09:30:58 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:30:58 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:32:53 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:32:53 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:35:09 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:35:09 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 09:48:51 (Thread 3) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 09:57:21 (Thread 1) Rejected low difficulty share of 5520730 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 09:57:21 (Thread 1) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 10:05:08 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:05:08 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:05:58 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:05:58 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:08:14 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:08:14 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:13:31 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:13:45 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:25:03 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:25:03 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:29:21 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:29:21 (Thread 3) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:52:27 (Thread 6) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:52:27 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:54:20 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 10:54:20 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 11:03:26 (Thread 4) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 11:39:10 (Thread 1) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 12:07:08 (Thread 5) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 12:07:08 (Thread 3) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 12:10:18 (Thread 3) Rejected low difficulty share of 3845893 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 12:10:18 (Thread 3) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 13:50:07 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 13:53:08 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 13:53:08 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 13:55:50 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 13:55:50 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 14:27:35 (Thread 1) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:28:05 (Thread 5) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:37:36 (Thread 3) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:39:06 (Thread 2) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:39:36 (Thread 4) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:40:05 (Thread 1) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:42:05 (Thread 5) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:43:36 (Thread 6) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:47:06 (Thread 2) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:47:06 (Thread 3) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:51:05 (Thread 5) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:51:06 (Thread 6) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:51:05 (Thread 1) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:51:06 (Thread 4) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:52:36 (Thread 3) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.35.41.184
+2019-10-30 14:54:35 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 14:56:05 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-30 15:17:45 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 15:17:47 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 15:31:36 (Thread 3) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.177.236
+2019-10-30 15:31:36 (Thread 6) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.177.236
+2019-10-30 15:34:14 (Thread 3) Socket error from ::ffff:91.252.177.236 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-30 15:34:14 (Thread 6) Socket error from ::ffff:91.252.177.236 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-30 15:48:06 (Thread 2) Miner timed out and disconnected TRTLv2BZPB6X6AtVCZ512m8U37booejGdP6r2vVjemQuE3aiecpkEasHXw3RETqHaA2oYJ5vaK55TB4PcnQsLC7tYg8uTYJbiue@::ffff:217.172.211.45
+2019-10-30 16:12:49 (Thread 5) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 16:25:27 (Thread 6) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 20:58:21 (Thread 2) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 21:04:05 (Thread 4) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-30 21:17:43 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 21:18:33 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-30 21:31:37 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.179.227
+2019-10-30 21:32:07 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.179.227
+2019-10-30 21:34:41 (Thread 2) Socket error from ::ffff:91.253.179.227 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-30 21:35:22 (Thread 4) Socket error from ::ffff:91.253.179.227 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-30 23:12:44 (Thread 6) Malformed message from ::ffff:5.202.25.126: POST /UD/?5 HTTP/1.1
+2019-10-30 23:30:35 (Thread 3) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-10-31 01:50:58 (Thread 4) Malformed message from ::ffff:93.67.178.101: CNXN         M
+2019-10-31 02:14:34 (Thread 3) Malformed message from ::ffff:5.8.18.88:   /*�     Cookie: mstshash=Administr
+2019-10-31 02:35:43 (Thread 5) Malformed message from ::ffff:5.8.18.88:   /*�     Cookie: mstshash=Administr
+2019-10-31 03:17:56 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 03:18:04 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 03:31:38 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.0.120
+2019-10-31 03:32:38 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.0.120
+2019-10-31 03:34:54 (Thread 5) Socket error from ::ffff:91.252.0.120 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 03:35:41 (Thread 1) Socket error from ::ffff:91.252.0.120 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 05:41:42 (Thread 5) Rejected low difficulty share of 4429454 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-31 05:41:42 (Thread 5) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-31 06:11:09 (Thread 1) Miner timed out and disconnected TRTLv2BZPB6X6AtVCZ512m8U37booejGdP6r2vVjemQuE3aiecpkEasHXw3RETqHaA2oYJ5vaK55TB4PcnQsLC7tYg8uTYJbiue@::ffff:82.63.93.186
+2019-10-31 06:16:09 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-31 09:14:49 (Thread 3) Bad hash from miner TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:14:49 (Thread 3) Share trust broken by TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:17:49 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 09:17:59 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 09:18:40 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:28:09 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:28:40 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:31:39 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:32:10 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.111.69
+2019-10-31 09:32:40 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.111.69
+2019-10-31 09:34:09 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:34:38 (Thread 4) Socket error from ::ffff:91.253.111.69 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 09:34:38 (Thread 2) Socket error from ::ffff:91.253.111.69 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 09:39:50 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 09:40:30 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 09:48:40 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:53:40 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.42.16
+2019-10-31 09:54:40 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.42.16
+2019-10-31 09:55:17 (Thread 4) Socket error from ::ffff:91.253.42.16 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 09:56:10 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 09:56:20 (Thread 2) Socket error from ::ffff:91.253.42.16 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 09:57:40 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:02:09 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:03:10 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:04:10 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:05:40 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:07:10 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:09:10 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:09:40 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:10:40 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:12:10 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:36:40 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:39:01 (Thread 3) Bad hash from miner TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:39:01 (Thread 3) Share trust broken by TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:47:40 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:53:40 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:54:10 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:58:10 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 10:59:10 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:01:10 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:03:10 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:03:40 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:05:10 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:06:10 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:07:10 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:09:40 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:10:40 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:13:10 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:13:40 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:15:10 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:16:10 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:16:40 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:19:40 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:20:40 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:21:10 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:21:40 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:27:40 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:29:10 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:29:40 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:31:40 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:33:40 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:37:10 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-31 11:37:40 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:39:10 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:39:40 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:40:52 (Thread 3) Malformed message from ::ffff:91.99.120.242: POST /UD/?5 HTTP/1.1
+2019-10-31 11:41:40 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:48:10 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:50:40 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:52:40 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:52:40 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:56:10 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:57:10 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 11:58:40 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:00:10 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:01:10 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:02:10 (Thread 4) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:82.63.93.186
+2019-10-31 12:02:40 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:04:40 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:04:40 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:82.63.93.186
+2019-10-31 12:05:10 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:13:10 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:14:10 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:15:10 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:82.63.93.186
+2019-10-31 12:15:10 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:15:40 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:18:10 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:20:10 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:22:10 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:28:40 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-31 12:28:40 (Thread 4) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-10-31 12:34:40 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:36:10 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:39:10 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:40:11 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:41:30 (Thread 2) Malformed message from ::ffff:189.73.165.81: CNXN         M
+2019-10-31 12:41:41 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 12:43:40 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-10-31 13:34:03 (Thread 4) Malformed message from ::ffff:151.235.190.73: POST /UD/?5 HTTP/1.1
+2019-10-31 14:51:41 (Thread 5) Miner timed out and disconnected TRTLv2BZPB6X6AtVCZ512m8U37booejGdP6r2vVjemQuE3aiecpkEasHXw3RETqHaA2oYJ5vaK55TB4PcnQsLC7tYg8uTYJbiue@::ffff:82.63.93.186
+2019-10-31 14:51:41 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:82.63.93.186
+2019-10-31 15:40:59 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 15:41:06 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 15:54:11 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.231.96
+2019-10-31 15:54:41 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.231.96
+2019-10-31 15:55:11 (Thread 1) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.37.40.186
+2019-10-31 15:55:41 (Thread 5) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.37.40.186
+2019-10-31 15:55:58 (Thread 5) Socket error from ::ffff:91.253.231.96 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 15:56:43 (Thread 1) Socket error from ::ffff:91.253.231.96 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 17:37:43 (Thread 1) Malformed message from ::ffff:193.188.22.187:   /*�     Cookie: mstshash=Administr
+2019-10-31 17:55:46 (Thread 5) Malformed message from ::ffff:193.188.22.187:   /*�     Cookie: mstshash=Administr
+2019-10-31 21:40:32 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 21:40:46 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-10-31 21:47:14 (Thread 5) Malformed message from ::ffff:130.25.169.124: CNXN         M
+2019-10-31 21:54:12 (Thread 3) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.74.200
+2019-10-31 21:55:13 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.74.200
+2019-10-31 21:56:19 (Thread 3) Socket error from ::ffff:91.253.74.200 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-10-31 21:56:49 (Thread 2) Socket error from ::ffff:91.253.74.200 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 00:56:28 (Thread 3) Malformed message from ::ffff:185.156.177.94:   /*�     Cookie: mstshash=Administr
+2019-11-01 01:47:16 (Thread 2) Malformed message from ::ffff:85.204.222.212: POST /UD/?5 HTTP/1.1
+2019-11-01 02:42:44 (Thread 6) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.37.40.186
+2019-11-01 02:45:29 (Thread 6) Socket error from ::ffff:79.37.40.186 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 03:40:12 (Thread 3) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 03:40:37 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 03:53:44 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.94.83
+2019-11-01 03:55:14 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.94.83
+2019-11-01 03:57:16 (Thread 1) Socket error from ::ffff:91.252.94.83 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 03:57:33 (Thread 4) Socket error from ::ffff:91.252.94.83 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 04:40:51 (Thread 1) Malformed message from ::ffff:37.10.67.34: POST /UD/?5 HTTP/1.1
+2019-11-01 04:41:44 (Thread 6) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-01 04:46:11 (Thread 5) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 04:47:44 (Thread 4) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-01 04:50:58 (Thread 4) Socket error from ::ffff:79.32.15.30 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 05:00:39 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 05:00:39 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 05:15:45 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 05:15:50 (Thread 3) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 05:29:50 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.7.213
+2019-11-01 05:29:50 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.7.213
+2019-11-01 05:30:20 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.171
+2019-11-01 05:30:50 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-01 05:31:40 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 05:33:00 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 05:43:20 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.171
+2019-11-01 05:43:37 (Thread 4) Socket error from ::ffff:91.253.7.213 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 05:44:22 (Thread 3) Socket error from ::ffff:192.168.1.171 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 05:44:50 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.7.213
+2019-11-01 05:44:50 (Thread 3) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.7.213
+2019-11-01 06:02:50 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 06:09:20 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 06:12:50 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 06:14:50 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 06:15:37 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:15:41 (Thread 2) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:16:11 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:16:11 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:21:46 (Thread 1) Malformed message from ::ffff:192.168.1.254 generated an exception. Message: {"id":1,"jsonrpc":"2.0","method":"login","params":{"login":"TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4","pass":"i7_8700k","agent":"XMRig/3.1.1 (Windows NT 10.0; Win64; x64) libuv/1.31.0 gcc/9.2.0","rigid":"i7_8700k","algo":["argon2/chukwa","cn/2","cn/r","cn/wow","cn/fast","cn/half","cn/xao","cn/rto","cn/rwz","cn/zls","cn/double","cn/gpu","cn-lite/1","cn-heavy/0","cn-heavy/tube","cn-heavy/xhv","cn-pico","rx/test","rx/wow","rx/loki","cn/1","argon2/wrkz"]}}
+2019-11-01 06:21:46 (Thread 1) Exception: Cannot read property 'height' of undefined
+2019-11-01 06:21:56 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:21:56 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:22:35 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:23:00 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:24:21 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:24:21 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:27:13 (Thread 1) Bad hash from miner TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 06:27:13 (Thread 1) Share trust broken by TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 06:27:48 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:27:48 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:28:45 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:28:45 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:32:05 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:32:05 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 06:49:51 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:00:21 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:02:51 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:11:51 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:21:22 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:22:22 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:23:22 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:23:52 (Thread 2) Socket error from ::ffff:2.34.217.142 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 07:24:22 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:30:22 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:31:22 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:31:52 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:33:22 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:33:52 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:34:52 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:37:22 (Thread 1) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:40:22 (Thread 6) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:56:52 (Thread 5) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 07:58:22 (Thread 2) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 08:06:52 (Thread 4) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-01 08:09:22 (Thread 4) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 08:10:22 (Thread 3) Miner timed out and disconnected TRTLv1v8bxMFyGvTmY1VnkHwygyQMoQPaJzXfGNGQvXZJYdiz3ZDZzZWx6eiHYPga9XfdUMuvNjHmRDxdfUQqzPT6zBF3BvqUZM@::ffff:2.34.217.142
+2019-11-01 09:40:17 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 09:40:59 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 09:54:22 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.7.213
+2019-11-01 09:54:52 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.7.213
+2019-11-01 09:56:55 (Thread 5) Socket error from ::ffff:91.253.7.213 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 09:57:01 (Thread 2) Socket error from ::ffff:91.253.7.213 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 10:00:56 (Thread 3) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 10:41:13 (Thread 1) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 11:11:32 (Thread 6) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 12:07:01 (Thread 5) Malformed message from ::ffff:91.99.36.211: POST /UD/?5 HTTP/1.1
+2019-11-01 12:21:33 (Thread 1) Bad hash from miner TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-01 12:21:33 (Thread 1) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-01 12:39:31 (Thread 4) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 12:46:42 (Thread 3) Malformed message from ::ffff:5.232.218.3: POST /UD/?5 HTTP/1.1
+2019-11-01 13:17:26 (Thread 1) Malformed message from ::ffff:188.158.156.232: POST /UD/?5 HTTP/1.1
+2019-11-01 13:42:23 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-01 13:43:23 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-01 14:13:15 (Thread 5) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 15:40:21 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 15:40:31 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 15:43:10 (Thread 6) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 15:55:24 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.100.157
+2019-11-01 15:55:24 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.100.157
+2019-11-01 15:57:08 (Thread 4) Socket error from ::ffff:91.252.100.157 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 15:57:16 (Thread 2) Socket error from ::ffff:91.252.100.157 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 17:27:24 (Thread 1) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-01 17:50:24 (Thread 5) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-01 17:52:54 (Thread 2) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-01 18:05:47 (Thread 3) Malformed message from ::ffff:87.123.155.235:   T�iu��F�ǹ���z1a�����L��Aq ��qBi~�F��X��s�p�Cj�_�:dq�-� >�,�0 �̨̩̪�+�/ ��$�( k�#�' g�
+2019-11-01 18:06:24 (Thread 6) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-01 18:40:11 (Thread 4) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 18:49:55 (Thread 1) Miner timed out and disconnected TRTLuyRiQh63B4HwCRbCh47jTKzj8sb71duxBaDdVywbc9jteYGwGd9jJEPq1L7GXpAvt2MTLYU8xhphrPF3rVouUNfkwJCcMhr@::ffff:87.123.155.235
+2019-11-01 18:54:24 (Thread 5) Miner timed out and disconnected TRTLuyRiQh63B4HwCRbCh47jTKzj8sb71duxBaDdVywbc9jteYGwGd9jJEPq1L7GXpAvt2MTLYU8xhphrPF3rVouUNfkwJCcMhr@::ffff:87.123.155.235
+2019-11-01 18:54:54 (Thread 6) Miner timed out and disconnected TRTLuyRiQh63B4HwCRbCh47jTKzj8sb71duxBaDdVywbc9jteYGwGd9jJEPq1L7GXpAvt2MTLYU8xhphrPF3rVouUNfkwJCcMhr@::ffff:87.123.155.235
+2019-11-01 18:57:25 (Thread 2) Miner timed out and disconnected TRTLuyRiQh63B4HwCRbCh47jTKzj8sb71duxBaDdVywbc9jteYGwGd9jJEPq1L7GXpAvt2MTLYU8xhphrPF3rVouUNfkwJCcMhr@::ffff:87.123.155.235
+2019-11-01 20:04:16 (Thread 1) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 20:26:57 (Thread 6) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 20:52:37 (Thread 5) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 20:58:58 (Thread 2) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 21:28:38 (Thread 3) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 21:40:55 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 21:42:07 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-01 21:54:08 (Thread 5) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 21:54:55 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:37.227.6.69
+2019-11-01 21:54:55 (Thread 3) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:37.227.6.69
+2019-11-01 21:57:08 (Thread 1) Socket error from ::ffff:37.227.6.69 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 21:57:08 (Thread 3) Socket error from ::ffff:37.227.6.69 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-01 22:37:26 (Thread 2) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 22:37:26 (Thread 4) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 23:39:11 (Thread 1) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-01 23:54:46 (Thread 6) Malformed message from ::ffff:5.234.241.210: POST /UD/?5 HTTP/1.1
+2019-11-02 01:53:40 (Thread 3) Malformed message from ::ffff:5.202.135.61: POST /UD/?5 HTTP/1.1
+2019-11-02 02:00:00 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 02:00:21 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 02:12:56 (Thread 6) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.46.212
+2019-11-02 02:13:56 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.252.46.212
+2019-11-02 02:16:12 (Thread 6) Socket error from ::ffff:91.252.46.212 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 02:16:39 (Thread 1) Socket error from ::ffff:91.252.46.212 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 02:22:56 (Thread 2) Miner timed out and disconnected TRTLuyRiQh63B4HwCRbCh47jTKzj8sb71duxBaDdVywbc9jteYGwGd9jJEPq1L7GXpAvt2MTLYU8xhphrPF3rVouUNfkwJCcMhr@::ffff:87.122.108.58
+2019-11-02 02:28:26 (Thread 4) Miner timed out and disconnected TRTLuyRiQh63B4HwCRbCh47jTKzj8sb71duxBaDdVywbc9jteYGwGd9jJEPq1L7GXpAvt2MTLYU8xhphrPF3rVouUNfkwJCcMhr@::ffff:87.122.108.58
+2019-11-02 02:37:56 (Thread 4) Miner timed out and disconnected TRTLuyRiQh63B4HwCRbCh47jTKzj8sb71duxBaDdVywbc9jteYGwGd9jJEPq1L7GXpAvt2MTLYU8xhphrPF3rVouUNfkwJCcMhr@::ffff:87.122.108.58
+2019-11-02 02:38:56 (Thread 3) Miner timed out and disconnected TRTLuyRiQh63B4HwCRbCh47jTKzj8sb71duxBaDdVywbc9jteYGwGd9jJEPq1L7GXpAvt2MTLYU8xhphrPF3rVouUNfkwJCcMhr@::ffff:87.122.108.58
+2019-11-02 04:01:26 (Thread 6) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-02 04:02:26 (Thread 5) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-02 04:05:27 (Thread 4) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-02 04:33:54 (Thread 2) Malformed message from ::ffff:5.78.147.102: POST /UD/?5 HTTP/1.1
+2019-11-02 05:10:08 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 05:11:10 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 05:21:57 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.177.182
+2019-11-02 05:23:19 (Thread 1) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 05:23:26 (Thread 6) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.177.182
+2019-11-02 05:43:30 (Thread 6) Malformed message from ::ffff:95.38.115.139: POST /UD/?5 HTTP/1.1
+2019-11-02 05:45:57 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 05:46:37 (Thread 2) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 05:57:27 (Thread 3) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.177.182
+2019-11-02 06:11:04 (Thread 4) Malformed message from ::ffff:5.235.214.233: POST /UD/?5 HTTP/1.1
+2019-11-02 06:29:38 (Thread 5) Rejected low difficulty share of 8562121 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.171
+2019-11-02 06:29:38 (Thread 5) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.171
+2019-11-02 06:35:43 (Thread 1) Malformed message from ::ffff:45.136.108.64:   /*�     Cookie: mstshash=Administr
+2019-11-02 06:56:09 (Thread 1) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 07:26:33 (Thread 6) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 07:35:07 (Thread 5) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 07:51:48 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 07:51:49 (Thread 4) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 08:44:25 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.171
+2019-11-02 08:44:25 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.177.182
+2019-11-02 08:44:25 (Thread 3) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-02 08:44:25 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 08:44:25 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 08:44:26 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.177.182
+2019-11-02 08:59:12 (Thread 4) Socket error from ::ffff:91.253.177.182 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 08:59:33 (Thread 5) Socket error from ::ffff:91.253.177.182 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 09:00:24 (Thread 5) Socket error from ::ffff:192.168.1.171 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 09:00:36 (Thread 3) Socket error from ::ffff:79.32.15.30 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 11:08:00 (Thread 4) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 11:19:18 (Thread 3) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:22:44 (Thread 1) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:26:35 (Thread 5) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:26:41 (Thread 2) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:26:47 (Thread 4) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:26:53 (Thread 3) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:26:59 (Thread 1) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:05 (Thread 6) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:11 (Thread 5) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:17 (Thread 2) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:23 (Thread 4) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:29 (Thread 3) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:35 (Thread 1) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:41 (Thread 6) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:47 (Thread 5) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:27:53 (Thread 2) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:29:29 (Thread 4) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:29:35 (Thread 3) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:29:41 (Thread 1) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:29:47 (Thread 6) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:29:53 (Thread 5) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:29:59 (Thread 2) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:30:06 (Thread 4) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:30:11 (Thread 3) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:30:18 (Thread 1) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:30:26 (Thread 6) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:34:26 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:35:33 (Thread 5) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 11:40:56 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:41:26 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.171
+2019-11-02 11:41:56 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:41:56 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:41:56 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:41:56 (Thread 4) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:26 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:26 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:26 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:26 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:26 (Thread 4) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:56 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:56 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:56 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:56 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:42:56 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:44:56 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:44:56 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:44:56 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:44:56 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:44:56 (Thread 4) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:45:26 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:45:26 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:45:26 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:45:26 (Thread 4) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:48:26 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 11:55:45 (Thread 6) Malformed message from ::ffff:78.128.112.30:   /*�     Cookie: mstshash=Administr
+2019-11-02 11:58:37 (Thread 2) Malformed message from ::ffff:5.202.28.94: POST /UD/?5 HTTP/1.1
+2019-11-02 12:26:56 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 12:26:56 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.171
+2019-11-02 12:33:26 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-02 12:34:50 (Thread 5) Socket error from ::ffff:192.168.1.254 {"errno":"EHOSTUNREACH","code":"EHOSTUNREACH","syscall":"read"}
+2019-11-02 12:35:26 (Thread 4) Malformed message from ::ffff:78.128.112.30:   /*�     Cookie: mstshash=Administr
+2019-11-02 13:05:51 (Thread 1) Malformed message from ::ffff:86.125.89.89: CNXN         M
+2019-11-02 14:00:34 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 14:00:46 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 14:12:37 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 14:15:27 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:37.227.47.188
+2019-11-02 14:15:27 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:37.227.47.188
+2019-11-02 14:15:44 (Thread 4) Socket error from ::ffff:37.227.47.188 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 14:15:56 (Thread 2) Socket error from ::ffff:37.227.47.188 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 14:24:26 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.63.28
+2019-11-02 14:31:27 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.63.28
+2019-11-02 14:31:57 (Thread 4) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-02 14:55:56 (Thread 3) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-02 15:51:57 (Thread 2) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-02 17:58:53 (Thread 2) Malformed message from ::ffff:89.43.89.123: POST /UD/?5 HTTP/1.1
+2019-11-02 17:59:27 (Thread 4) Malformed message from ::ffff:89.165.14.201: POST /UD/?5 HTTP/1.1
+2019-11-02 20:01:28 (Thread 1) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 20:14:58 (Thread 6) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.63.28
+2019-11-02 20:16:31 (Thread 6) Socket error from ::ffff:91.253.63.28 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-02 20:26:15 (Thread 6) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 20:39:56 (Thread 5) Malformed message from ::ffff:195.154.92.15:   /*�     Cookie: mstshash=Administr
+2019-11-02 21:55:13 (Thread 2) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 23:31:00 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-02 23:36:15 (Thread 6) Malformed message from ::ffff:89.248.174.206: CNXN         M
+2019-11-02 23:39:15 (Thread 5) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-02 23:49:29 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.141.25
+2019-11-03 00:13:28 (Thread 5) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.141.25
+2019-11-03 00:18:14 (Thread 2) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-03 00:33:29 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.141.25
+2019-11-03 00:38:38 (Thread 1) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-03 00:43:04 (Thread 6) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-03 00:44:10 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 00:53:59 (Thread 1) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.141.25
+2019-11-03 01:03:29 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.141.25
+2019-11-03 01:41:29 (Thread 5) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-03 01:42:20 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 01:49:29 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 01:49:29 (Thread 4) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 01:52:42 (Thread 4) Socket error from ::ffff:192.168.1.254 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-03 01:53:10 (Thread 3) Socket error from ::ffff:192.168.1.254 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-03 01:54:29 (Thread 2) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-03 01:59:59 (Thread 6) Miner timed out and disconnected TRTLv3oCs257DSJzKfCSVzZG52ysXUxeoHakfaGE61xyfKe3kViFyvHbFc7diTvPWg49jtGwL6hWD4A2e5GbUj1HKKuUtjgNYPy@::ffff:79.32.15.30
+2019-11-03 01:00:55 (Thread 5) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 01:00:59 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.141.25
+2019-11-03 01:02:11 (Thread 2) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-03 01:15:59 (Thread 6) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.141.25
+2019-11-03 01:15:59 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.141.25
+2019-11-03 01:17:41 (Thread 1) Socket error from ::ffff:91.253.141.25 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-03 01:18:12 (Thread 6) Socket error from ::ffff:91.253.141.25 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-03 02:09:42 (Thread 2) Rejected low difficulty share of 31452795 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.150.253
+2019-11-03 02:09:42 (Thread 2) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.150.253
+2019-11-03 02:24:58 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 02:43:30 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 02:52:45 (Thread 2) Rejected low difficulty share of 56113597 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.150.253
+2019-11-03 02:52:45 (Thread 2) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.150.253
+2019-11-03 03:48:51 (Thread 2) Rejected low difficulty share of 16686766 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.150.253
+2019-11-03 03:48:51 (Thread 2) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.150.253
+2019-11-03 04:21:59 (Thread 3) Invalid difficulty value "ryzen2700x" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-03 05:10:58 (Thread 1) Invalid difficulty value "PC1" for login: TRTLuzc7QAdM22QvJUmwAMHJg3TCcDgZQ2jREYhRfxrdc4NkQXHgzK5cHESjMHRqBK5M6Y2VQGN46bVWzy8cXJ5yNxyVVqMYPsL
+2019-11-03 05:23:33 (Thread 5) Invalid difficulty value "PC1" for login: TRTLuzc7QAdM22QvJUmwAMHJg3TCcDgZQ2jREYhRfxrdc4NkQXHgzK5cHESjMHRqBK5M6Y2VQGN46bVWzy8cXJ5yNxyVVqMYPsL
+2019-11-03 05:31:00 (Thread 1) Miner timed out and disconnected TRTLuzc7QAdM22QvJUmwAMHJg3TCcDgZQ2jREYhRfxrdc4NkQXHgzK5cHESjMHRqBK5M6Y2VQGN46bVWzy8cXJ5yNxyVVqMYPsL@::ffff:151.40.195.143
+2019-11-03 05:58:48 (Thread 6) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:03:42 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:05:33 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:06:33 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:07:00 (Thread 1) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:10:59 (Thread 6) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:17:30 (Thread 6) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:17:53 (Thread 5) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:18:23 (Thread 2) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:19:01 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:19:30 (Thread 3) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 06:21:00 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:21:20 (Thread 4) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:22:00 (Thread 3) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:22:30 (Thread 1) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:22:35 (Thread 3) Socket error from ::ffff:192.168.1.254 {"errno":"EHOSTUNREACH","code":"EHOSTUNREACH","syscall":"read"}
+2019-11-03 06:30:00 (Thread 6) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:31:10 (Thread 3) Invalid difficulty value "rx570" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 06:33:00 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:33:31 (Thread 2) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:36:31 (Thread 4) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 06:52:43 (Thread 3) Rejected low difficulty share of 7469973 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 06:52:43 (Thread 3) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 07:00:00 (Thread 3) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 07:01:26 (Thread 6) Invalid difficulty value "Vega56" for login: TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG
+2019-11-03 07:02:25 (Thread 5) Invalid difficulty value "rtx-2080" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2019-11-03 07:10:30 (Thread 5) Miner timed out and disconnected TRTLuzc7QAdM22QvJUmwAMHJg3TCcDgZQ2jREYhRfxrdc4NkQXHgzK5cHESjMHRqBK5M6Y2VQGN46bVWzy8cXJ5yNxyVVqMYPsL@::ffff:151.40.195.143
+2019-11-03 07:11:01 (Thread 2) Invalid difficulty value "PC1" for login: TRTLuzc7QAdM22QvJUmwAMHJg3TCcDgZQ2jREYhRfxrdc4NkQXHgzK5cHESjMHRqBK5M6Y2VQGN46bVWzy8cXJ5yNxyVVqMYPsL
+2019-11-03 07:15:01 (Thread 2) Miner timed out and disconnected TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.253.150.253
+2019-11-03 07:16:00 (Thread 5) Miner timed out and disconnected TRTLuxXEHsJ8Wf4jL8RMdxBkmj5dwfbcQJRuioHfBjgk83RHwKynVNVJKa9s1AAWZESMR6FCmfibqR6FB3s1dJPDQEgUzSF99RG@::ffff:91.253.150.253
+2019-11-03 07:17:55 (Thread 5) Socket error from ::ffff:91.253.150.253 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-03 07:18:24 (Thread 2) Socket error from ::ffff:91.253.150.253 {"errno":"ETIMEDOUT","code":"ETIMEDOUT","syscall":"read"}
+2019-11-03 07:42:56 (Thread 4) Invalid difficulty value "PC1" for login: TRTLuzc7QAdM22QvJUmwAMHJg3TCcDgZQ2jREYhRfxrdc4NkQXHgzK5cHESjMHRqBK5M6Y2VQGN46bVWzy8cXJ5yNxyVVqMYPsL
+2019-11-03 07:46:31 (Thread 2) Miner timed out and disconnected TRTLuzc7QAdM22QvJUmwAMHJg3TCcDgZQ2jREYhRfxrdc4NkQXHgzK5cHESjMHRqBK5M6Y2VQGN46bVWzy8cXJ5yNxyVVqMYPsL@::ffff:151.61.47.164
+2019-11-03 08:48:50 (Thread 5) Rejected low difficulty share of 18382581 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.252.23.136
+2019-11-03 08:48:50 (Thread 5) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:91.252.23.136
+2019-11-03 09:04:00 (Thread 3) Rejected low difficulty share of 18525214 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 09:04:00 (Thread 3) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 09:18:28 (Thread 3) Rejected low difficulty share of 7888539 from TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 09:18:28 (Thread 3) Share trust broken by TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4@::ffff:192.168.1.254
+2019-11-03 09:32:28 (Thread 4) Malformed message from ::ffff:185.153.197.237:   /*�     Cookie: mstshash=Administr
+2019-11-03 09:34:42 (Thread 1) Malformed message from ::ffff:185.153.197.237:   /*�     Cookie: mstshash=Administr
+2019-11-03 09:35:34 (Thread 6) Malformed message from ::ffff:185.153.197.237:   /*�     Cookie: mstshash=Administr
