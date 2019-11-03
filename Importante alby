@@ -7,3 +7,5 @@ nvm alias default 8
 nvm use 8
 
 Pool wallet: TRTLv13dkXXCwrcCAG2CJQULcQbYWiEbHEdFV8Fmn4kd1A6VR9Ae13Ug79Y1LnGyVSCfX4TwiiXmF2GUsdda5NH6KzCLUHsYWq5
+
+./turtle-service -w moria-pool-API.wallet -p T0pu$_92142292 --rpc-password moria-wall3t --enable-cors "*"
