@@ -1,0 +1,7 @@
+Installare NVM:
+https://github.com/nvm-sh/nvm
+
+Comandi in sequenza:
+nvm install 8
+nvm alias default 8
+nvm use 8
