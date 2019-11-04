@@ -25,7 +25,7 @@
     "poolServer": {
         "enabled": true,
         "clusterForks": 6,
-        "poolAddress": "TRTLv13dkXXCwrcCAG2CJQULcQbYWiEbHEdFV8Fmn4kd1A6VR9Ae13Ug79Y1LnGyVSCfX4TwiiXmF2GUsdda5NH6KzCLUHsYWq5",
+        "poolAddress": "TRTLuxewoP6Pav3A3ywbAV8o3hywiJRaV25q72NKokhhUrHqjNd2pDE8FKnUFhSAVZ7QXGWLwUhSc9GzoXLg9bgrbTxzjve2Kyt",
         "intAddressPrefix": null,
         "blockRefreshInterval": 1000,
         "minerTimeout": 900,
