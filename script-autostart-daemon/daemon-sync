@@ -1,0 +1,6 @@
+#!/bin/sh  
+while true  
+do  
+gnome-terminal -e ./../turtlecoin/build/src/TurtleCoind
+sleep 10  
+done
