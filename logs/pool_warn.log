@@ -6303,3 +6303,15 @@
 2019-11-03 09:32:28 (Thread 4) Malformed message from ::ffff:185.153.197.237:   /*�     Cookie: mstshash=Administr
 2019-11-03 09:34:42 (Thread 1) Malformed message from ::ffff:185.153.197.237:   /*�     Cookie: mstshash=Administr
 2019-11-03 09:35:34 (Thread 6) Malformed message from ::ffff:185.153.197.237:   /*�     Cookie: mstshash=Administr
+2020-01-08 11:05:45 (Thread 2) Invalid difficulty value "rx570xfx" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2020-01-08 11:05:45 (Thread 2) Malformed message from ::ffff:192.168.1.254 generated an exception. Message: {"id":1,"method":"login","params":{"login":"TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4.rx570xfx","pass":"rx570xfx","rigid":"","agent":"teamredminer/0.6.1"}}
+2020-01-08 11:05:45 (Thread 2) Exception: Cannot read property 'height' of undefined
+2020-01-08 11:05:48 (Thread 1) Invalid difficulty value "rx550" for login: TRTLuyT7FoZfsPsxrJfw2wVg9cEMYiQZrdXbNbtyW4vWXyqhgKiyECGKZVFM1J2N8D7gYqKgFmVGL7MJAt4k39Te9Zay5uwQdvF
+2020-01-08 11:05:48 (Thread 1) Malformed message from ::ffff:87.1.19.155 generated an exception. Message: {"id":1,"method":"login","params":{"login":"TRTLuyT7FoZfsPsxrJfw2wVg9cEMYiQZrdXbNbtyW4vWXyqhgKiyECGKZVFM1J2N8D7gYqKgFmVGL7MJAt4k39Te9Zay5uwQdvF.rx550","pass":"rx550","rigid":"","agent":"teamredminer/0.6.1"}}
+2020-01-08 11:05:48 (Thread 1) Exception: Cannot read property 'height' of undefined
+2020-01-08 11:05:50 (Thread 3) Invalid difficulty value "rtx2080ti" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2020-01-08 11:05:50 (Thread 3) Malformed message from ::ffff:192.168.1.254 generated an exception. Message: {"id":1,"jsonrpc":"2.0","method":"login","params":{"agent":"CryptoDredge/0.22.0","login":"TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4.rtx2080ti","pass":"rtx2080ti"}}
+2020-01-08 11:05:50 (Thread 3) Exception: Cannot read property 'height' of undefined
+2020-01-08 11:06:07 (Thread 6) Invalid difficulty value "rtx2080ti" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4
+2020-01-08 11:06:50 (Thread 4) Invalid difficulty value "rx550" for login: TRTLuyT7FoZfsPsxrJfw2wVg9cEMYiQZrdXbNbtyW4vWXyqhgKiyECGKZVFM1J2N8D7gYqKgFmVGL7MJAt4k39Te9Zay5uwQdvF
+2020-01-08 11:06:48 (Thread 5) Invalid difficulty value "rx570xfx" for login: TRTLv3JHpNegUGayFyfQpLUHnN82MP657aPgbSefFg6deY9a1XoK5CqfrPXdufP7qUMQLiQFPbxF2PCdqwoDz7T6iQULQhKruJ4

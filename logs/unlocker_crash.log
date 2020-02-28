@@ -1,0 +1,850 @@
+2020-01-08 11:06:18
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:20
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:22
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:25
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:27
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:30
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:32
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:35
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:37
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:39
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:42
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:44
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:47
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:49
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:52
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:54
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:57
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:06:59
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:02
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:04
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:06
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:09
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:11
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:14
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:16
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:19
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:21
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:28
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:30
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:33
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:35
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:38
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:40
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
+2020-01-08 11:07:43
+TypeError: Invalid date
+    at Object.dateFormat (/home/moria/trtl-pool-cryptonote/node_modules/dateformat/lib/dateformat.js:39:17)
+    at /home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:165:40
+    at Array.forEach (<anonymous>)
+    at async.waterfall.unlockedBlocksCommands (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:141:20)
+    at fn (/home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:746:34)
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1213:16
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:166:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:706:43
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:167:37
+    at /home/moria/trtl-pool-cryptonote/node_modules/async/lib/async.js:1209:30
+    at Multi.callback (/home/moria/trtl-pool-cryptonote/lib/blockUnlocker.js:133:17)
+    at multi_callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:89:14)
+    at Command.callback (/home/moria/trtl-pool-cryptonote/node_modules/redis/lib/multi.js:116:9)
+    at normal_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:726:21)
+    at RedisClient.return_reply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:824:9)
+    at JavascriptRedisParser.returnReply (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:192:18)
+    at JavascriptRedisParser.execute (/home/moria/trtl-pool-cryptonote/node_modules/redis-parser/lib/parser.js:574:12)
+    at Socket.<anonymous> (/home/moria/trtl-pool-cryptonote/node_modules/redis/index.js:274:27)
+    at emitOne (events.js:116:13)
+    at Socket.emit (events.js:211:7)
+    at addChunk (_stream_readable.js:263:12)
+    at readableAddChunk (_stream_readable.js:250:11)
+
