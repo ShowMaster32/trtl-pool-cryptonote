@@ -25,7 +25,7 @@
         "redis": "*",
         "request": "^2.88.0",
         "request-promise-native": "^1.0.5",
-        "socket.io": "^2.1.1",
+        "socket.io": "^2.4.0",
         "time-ago": "*",
         "turtlecoin-cryptonote-util": "git://github.com/turtlecoin/node-cryptonote-util",
         "turtlecoin-multi-hashing": "*",
