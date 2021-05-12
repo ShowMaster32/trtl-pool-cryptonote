@@ -20,7 +20,7 @@
         "mailgun.js": "*",
         "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",
         "node-telegram-bot-api": "*",
-        "nodemailer": "2.7.2",
+        "nodemailer": "6.4.16",
         "nodemailer-sendmail-transport": "*",
         "redis": "*",
         "request": "^2.88.0",
